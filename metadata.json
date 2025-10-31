@@ -1,0 +1,5 @@
+{
+  "name": "TimeBlox: AI Daily Planner",
+  "description": "An intelligent daily planner that takes your unordered tasks and uses AI to generate a clean, visually ordered schedule based on time-blocking principles.",
+  "requestFramePermissions": []
+}
